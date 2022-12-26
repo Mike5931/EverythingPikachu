@@ -1,0 +1,40 @@
+[18-Nov-2022 17:37:37 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:37:38 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:37:38 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 13
+[18-Nov-2022 17:37:44 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:37:44 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:37:44 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 13
+[18-Nov-2022 17:38:18 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:38:18 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:38:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 13
+[18-Nov-2022 17:39:05 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:39:05 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:39:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 15
+[18-Nov-2022 17:39:38 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:39:38 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:40:38 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:40:38 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 2
+[18-Nov-2022 17:40:38 UTC] PHP Notice:  Undefined variable: password in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 15
+[18-Nov-2022 17:44:08 UTC] PHP Notice:  Undefined variable: username in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 16
+[18-Nov-2022 17:48:04 UTC] PHP Notice:  Undefined variable: password in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 20
+[02-Dec-2022 17:59:24 UTC] PHP Parse error:  syntax error, unexpected '$userName' (T_VARIABLE) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 4
+[02-Dec-2022 17:59:27 UTC] PHP Parse error:  syntax error, unexpected '$userName' (T_VARIABLE) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 4
+[02-Dec-2022 18:01:04 UTC] PHP Notice:  Undefined variable: username in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 26
+[02-Dec-2022 18:01:04 UTC] PHP Notice:  Undefined variable: password in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 27
+[02-Dec-2022 18:01:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php:26) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 28
+[09-Dec-2022 18:03:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_9e8d3fcda9df4dfba016fb6508ef4861, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 3
+[09-Dec-2022 18:03:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 3
+[09-Dec-2022 18:03:59 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_9e8d3fcda9df4dfba016fb6508ef4861, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 3
+[09-Dec-2022 18:03:59 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/admin/admin_backend/admin_login_verification.php on line 3

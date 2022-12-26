@@ -1,0 +1,5 @@
+[22-Nov-2022 15:59:59 UTC] PHP Notice:  Undefined index: Pword in /home/abbondm1/public_html/CSIT355_FinalProject/employee/employee_backend/employee_login_verification.php on line 33
+[22-Nov-2022 16:00:43 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/employee/employee_homepage.php on line 2
+[22-Nov-2022 16:00:43 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/employee/employee_homepage.php on line 2
+[22-Nov-2022 16:01:57 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/employee/employee_homepage.php on line 2
+[22-Nov-2022 16:01:57 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/employee/employee_homepage.php on line 2

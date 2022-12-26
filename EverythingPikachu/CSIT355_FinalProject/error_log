@@ -1,0 +1,276 @@
+[14-Nov-2022 22:17:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:20:18 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:20:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:20:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:20:53 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:22:37 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:28:48 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:29:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:31:40 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:36:21 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:36:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:41:17 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:42:04 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:44:51 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:52:43 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:53:22 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:53:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[14-Nov-2022 22:53:59 UTC] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'abbondm1_initial'@'localhost' (using password: YES) in /home/abbondm1/public_html/CSIT355_FinalProject/db_connection.php on line 2
+[18-Nov-2022 17:36:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 17:36:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:31:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined method mysqli_stmt::fecthAll() in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 13
+[18-Nov-2022 19:34:18 UTC] PHP Notice:  Undefined variable: result in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 15
+[18-Nov-2022 19:34:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:15) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 17
+[18-Nov-2022 19:34:18 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 31
+[18-Nov-2022 19:34:18 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 19:34:18 UTC] PHP Notice:  Undefined variable: result in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 89
+[18-Nov-2022 19:35:58 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:35:58 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:35:58 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:35:58 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[18-Nov-2022 19:36:21 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:36:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:36:21 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:36:21 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[18-Nov-2022 19:36:23 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:36:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:36:23 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:36:23 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[18-Nov-2022 19:36:24 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:36:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:36:24 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:36:24 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[18-Nov-2022 19:36:48 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:36:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:36:48 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:36:49 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:36:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 18
+[18-Nov-2022 19:36:49 UTC] PHP Notice:  Undefined index: Username in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:37:24 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 14
+[18-Nov-2022 19:37:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 19:38:21 UTC] PHP Warning:  mysqli::query() expects parameter 1 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 16
+[18-Nov-2022 19:38:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:40:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:44:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:45:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:46:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:53:36 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:54:45 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:55:05 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 19:58:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:00:27 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:24 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:05:40 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 34
+[18-Nov-2022 20:10:47 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:10:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:10:48 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:10:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:10:50 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:16:08 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:18:16 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:20:31 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:20:59 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:22:51 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:24:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:26:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:27:01 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:27:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:27:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:28:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:29:53 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:30:35 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:30:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:12 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:26 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:28 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[22-Nov-2022 14:42:59 UTC] PHP Warning:  include(/backend/login_verification.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:42:59 UTC] PHP Warning:  include(): Failed opening '/backend/login_verification.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:43:27 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[22-Nov-2022 14:43:27 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[22-Nov-2022 16:18:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:18:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:18:52 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[22-Nov-2022 16:19:23 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:19:23 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:19:23 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[22-Nov-2022 16:31:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:01 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[22-Nov-2022 16:31:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function kill() in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 6
+[22-Nov-2022 16:31:07 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:07 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:07 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[22-Nov-2022 16:31:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function kill() in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 6
+[22-Nov-2022 16:31:16 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:16 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:16 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[22-Nov-2022 16:31:47 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_82968da9350b90ddaa5ed28fc0100108, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:47 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 2
+[22-Nov-2022 16:31:47 UTC] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/abbondm1/public_html/CSIT355_FinalProject/logout.php on line 5
+[06-Dec-2022 15:03:36 UTC] PHP Notice:  Undefined variable: result in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 23
+[06-Dec-2022 15:03:36 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:23
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 23
+[06-Dec-2022 15:05:09 UTC] PHP Notice:  Array to string conversion in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 26
+[06-Dec-2022 15:05:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: 'Array' for column 'InventoryLevel' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:27
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php(27): mysqli->query('UPDATE PRODUCT ...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 27
+[06-Dec-2022 15:30:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:67
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php(67): mysqli->query('INSERT INTO SHO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 67
+[06-Dec-2022 15:31:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:67
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php(67): mysqli->query('INSERT INTO SHO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 67
+[07-Dec-2022 19:21:32 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:21:32 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:21:41 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:21:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:22:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:22:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:22:14 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 19:22:14 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: fname in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 19
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: lname in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 20
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: address in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 21
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: city in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 22
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: state in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 23
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: zip in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 24
+[07-Dec-2022 20:51:31 UTC] PHP Notice:  Undefined index: CustID in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 25
+[07-Dec-2022 15:51:31 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '15:51, 7th December 2022' for column 'OrderDate' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:46
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(46): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 46
+[07-Dec-2022 20:53:43 UTC] PHP Notice:  Undefined index: CustID in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 25
+[07-Dec-2022 15:53:43 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '15:53, 7th December 2022' for column 'OrderDate' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:46
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(46): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 46
+[07-Dec-2022 21:08:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE CustID = '7'' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:77
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php(77): mysqli->query('INSERT INTO SHO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 77
+[07-Dec-2022 21:20:24 UTC] PHP Notice:  Undefined index: Quantity in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 61
+[07-Dec-2022 21:20:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:61) in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 88
+[08-Dec-2022 13:24:00 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '13:24, 8th December 2022' for column 'OrderDate' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:47
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(47): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 47
+[08-Dec-2022 18:46:40 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''7' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php:65
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php(65): mysqli->query('SELECT Quantity...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_redirect.php on line 65
+[09-Dec-2022 09:34:24 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect date value: '09:34, 9th December 2022' for column 'OrderDate' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:47
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(47): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 47
+[09-Dec-2022 09:36:39 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM ORDERS OrderNum WHERE CustomerID = '0'' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:50
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(50): mysqli->query('SELECT FROM ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 50
+[09-Dec-2022 09:44:16 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM ORDERS OrderNum WHERE CustomerID = '7'' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:58
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(58): mysqli->query('SELECT FROM ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 58
+[09-Dec-2022 09:45:41 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Field 'OrderID' doesn't have a default value in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:72
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(72): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 72
+[09-Dec-2022 09:49:06 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Pikachu Poke Ball Icon T-Shirt','2','12.99','3')' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:72
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(72): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 72
+[09-Dec-2022 09:57:29 EST] PHP Notice:  Undefined variable: CustID in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 48
+[09-Dec-2022 09:57:29 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'CustomerID' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:49
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(49): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 49
+[09-Dec-2022 09:58:10 EST] PHP Notice:  Undefined variable: CustID in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 50
+[09-Dec-2022 09:58:10 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'CustomerID' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:51
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(51): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 51
+[09-Dec-2022 09:58:44 EST] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'CustomerID' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php:51
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php(51): mysqli->query('INSERT INTO ORD...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/checkoutreceipt.php on line 51
+[09-Dec-2022 15:11:15 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'Quantity' in 'field list' in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php:57
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php(57): mysqli->query('UPDATE PRODUCT ...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php on line 57
+[09-Dec-2022 15:25:02 UTC] PHP Notice:  Undefined index: ProductNum in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php on line 14
+[09-Dec-2022 15:25:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php:14) in /home/abbondm1/public_html/CSIT355_FinalProject/shoppingcart_remove.php on line 53
+[09-Dec-2022 18:00:32 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 2
+[09-Dec-2022 18:00:32 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 2
+[09-Dec-2022 18:00:32 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 31
+[09-Dec-2022 18:00:32 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 31
+[09-Dec-2022 18:00:48 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 2
+[09-Dec-2022 18:00:48 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 2
+[09-Dec-2022 18:00:48 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 31
+[09-Dec-2022 18:00:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/view_orders_customer.php on line 31
+[11-Dec-2022 19:16:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:16:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:16:25 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:16:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:16:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:16:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:17:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:17:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:17:53 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:17:53 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:09 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:09 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:21 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:21 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[11-Dec-2022 19:19:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[12-Dec-2022 17:48:38 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:48:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:48:58 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:49:09 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:49:11 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:49:48 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:49:50 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:54:02 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:54:03 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127
+[12-Dec-2022 17:54:04 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 127

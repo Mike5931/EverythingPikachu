@@ -1,0 +1,121 @@
+[28-Nov-2022 21:19:12 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:19:12 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:19:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:2) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 6
+[28-Nov-2022 21:20:51 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:20:51 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:20:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:2) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 6
+[28-Nov-2022 21:22:40 UTC] PHP Warning:  include(../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:22:40 UTC] PHP Warning:  include(): Failed opening '../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 2
+[28-Nov-2022 21:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:2) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 6
+[28-Nov-2022 21:26:53 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:26:53 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:32:54 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:32:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:35:04 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:35:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:37:38 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:37:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:40:11 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:40:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:40:13 UTC] PHP Notice:  Undefined index: LoggedIn in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 3
+[28-Nov-2022 21:40:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_homepage.php on line 5
+[28-Nov-2022 21:52:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php on line 40
+[28-Nov-2022 21:57:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column count doesn't match value count at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php:40
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php(40): mysqli->query('INSERT INTO PRO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php on line 40
+[28-Nov-2022 22:07:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Incorrect integer value: '' for column 'ProductNum' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php:40
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php(40): mysqli->query('INSERT INTO PRO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php on line 40
+[28-Nov-2022 22:09:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Test, https://upload.wikimedia.org/wikipedia/en/thumb/7/73/Pikachu_artwork_for_P' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php:41
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php(41): mysqli->query('INSERT INTO PRO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_insertproduct_verification.php on line 41
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[01-Dec-2022 00:20:51 UTC] PHP Notice:  Undefined index: SupplierNum in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 47
+[02-Dec-2022 17:56:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 17:56:56 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 17:57:01 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:02:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:03:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:03:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:06:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:41
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(41): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 41
+[02-Dec-2022 18:08:26 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 34
+[02-Dec-2022 18:08:40 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 34
+[02-Dec-2022 18:09:10 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 34
+[02-Dec-2022 18:11:33 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:14:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[02-Dec-2022 18:15:04 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'mikeabb' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php:35
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php(35): mysqli->query('SELECT * FROM P...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_viewproducts_verification.php on line 35
+[09-Dec-2022 15:46:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Unknown column 'UserName' in 'where clause' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php:47
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php(47): mysqli->query('DELETE FROM PRO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 47
+[09-Dec-2022 15:47:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE ProductNum = '46' AND UserName = 'mikeabb'' at line 1 in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php:47
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php(47): mysqli->query('DELETE FROM PRO...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 47
+[09-Dec-2022 15:56:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:00:15 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:00:29 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:02:22 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:02:46 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:02:51 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:03:25 UTC] PHP Notice:  Trying to get property 'num_rows' of non-object in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_deleteproduct_verification.php on line 56
+[09-Dec-2022 16:28:03 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Duplicate entry '10' for key 'PRIMARY' in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_addcategory_verification.php:37
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_addcategory_verification.php(37): mysqli->query('INSERT INTO CAT...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/seller/seller_backend/seller_addcategory_verification.php on line 37

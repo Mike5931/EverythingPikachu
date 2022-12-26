@@ -1,0 +1,589 @@
+[14-Nov-2022 22:58:39 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[14-Nov-2022 22:58:39 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[14-Nov-2022 22:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:06:59 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:06:59 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:12:19 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:12:19 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:12:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:14:13 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:14:13 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:14:13 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:17:47 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:19:34 UTC] PHP Parse error:  syntax error, unexpected '"', '"' (T_CONSTANT_ENCAPSED_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:23:51 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:23:51 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:23:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:24:09 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:24:09 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:24:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:24:55 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:24:55 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:24:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:28:45 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:28:45 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:28:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:28:45 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[15-Nov-2022 18:28:45 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 35
+[15-Nov-2022 18:30:03 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:30:03 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:30:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:30:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[15-Nov-2022 18:30:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 35
+[15-Nov-2022 18:32:41 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 24
+[15-Nov-2022 18:34:03 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:34:03 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:34:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:34:03 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[15-Nov-2022 18:34:03 UTC] PHP Fatal error:  Uncaught Error: Call to a member function close() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 35
+[15-Nov-2022 18:35:50 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:35:50 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:35:50 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 25
+[15-Nov-2022 18:39:18 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:39:18 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[15-Nov-2022 18:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 26
+[15-Nov-2022 18:45:24 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 15:41:09 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:41:09 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:41:09 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 40
+[16-Nov-2022 15:42:19 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:42:19 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:42:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 40
+[16-Nov-2022 15:45:16 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:45:16 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:45:16 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:40
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 40
+[16-Nov-2022 15:51:27 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:51:27 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:51:27 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 44
+[16-Nov-2022 15:52:01 UTC] PHP Warning:  require(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:52:01 UTC] PHP Fatal error:  require(): Failed opening required 'db_connection.php' (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 15:56:57 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 53
+[16-Nov-2022 15:57:56 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 53
+[16-Nov-2022 15:59:28 UTC] PHP Parse error:  syntax error, unexpected '"','"' (T_CONSTANT_ENCAPSED_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 48
+[16-Nov-2022 16:03:55 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 49
+[16-Nov-2022 16:05:15 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 54
+[16-Nov-2022 16:05:54 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 54
+[16-Nov-2022 16:06:26 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 54
+[16-Nov-2022 16:06:57 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 54
+[16-Nov-2022 16:07:41 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO), expecting ',' or ';' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:07:53 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:07:53 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:07:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 44
+[16-Nov-2022 16:16:57 UTC] PHP Parse error:  syntax error, unexpected '$result' (T_VARIABLE) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:19:12 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:19:12 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:19:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:19:12 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 48
+[16-Nov-2022 16:33:13 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:33:13 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:33:13 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:33:13 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:34:55 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:34:55 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:35:12 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:35:12 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:35:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:35:12 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:35:38 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:35:38 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:35:38 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:35:38 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:36:17 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:36:17 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:36:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:36:17 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 28
+[16-Nov-2022 16:36:59 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:36:59 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:36:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 27
+[16-Nov-2022 16:37:32 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:37:32 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:37:32 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 49
+[16-Nov-2022 16:37:43 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:37:43 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:37:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:44:46 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:44:46 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:44:46 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:45:19 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:45:19 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:45:19 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:48:59 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:48:59 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:48:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:46
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 46
+[16-Nov-2022 16:51:55 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:51:55 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:51:55 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 52
+[16-Nov-2022 16:51:55 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 52
+[16-Nov-2022 16:52:21 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:52:21 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 2
+[16-Nov-2022 16:52:21 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 53
+[16-Nov-2022 16:52:21 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 53
+[16-Nov-2022 16:53:42 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 65
+[16-Nov-2022 16:54:48 UTC] PHP Warning:  Use of undefined constant mqsqli - assumed 'mqsqli' (this will throw an Error in a future version of PHP) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 65
+[16-Nov-2022 16:54:48 UTC] PHP Warning:  mysqli_error() expects exactly 1 parameter, 2 given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 65
+[16-Nov-2022 18:51:49 UTC] PHP Notice:  Undefined property: mysqli::$New in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 60
+[16-Nov-2022 18:53:16 UTC] PHP Notice:  Undefined property: mysqli::$asfsddf in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 60
+[16-Nov-2022 18:53:53 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, string given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 58
+[16-Nov-2022 18:53:53 UTC] PHP Notice:  Undefined property: mysqli::$asfsddf in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 60
+[16-Nov-2022 19:31:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PASSWORD() in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 18
+[16-Nov-2022 19:33:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function PASSWORD() in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:52
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 52
+[16-Nov-2022 19:34:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'thing')','new','user','user@user','1 main street','newark','nj','10939','1230976' at line 2 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:58
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php(58): mysqli->query('insert into CUS...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 58
+[16-Nov-2022 19:38:51 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Data too long for column 'Pword' at row 1 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php:57
+Stack trace:
+#0 /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php(57): mysqli->query('insert into CUS...')
+#1 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/registration_verification.php on line 57
+[18-Nov-2022 16:01:12 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:01:12 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:01:12 UTC] PHP Notice:  Undefined variable: Username in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 10
+[18-Nov-2022 16:01:12 UTC] PHP Notice:  Undefined variable: Password in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 11
+[18-Nov-2022 16:01:29 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:01:29 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:15:20 UTC] PHP Warning:  include(db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:15:20 UTC] PHP Warning:  include(): Failed opening 'db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:15:20 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 18
+[18-Nov-2022 16:15:20 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 18
+[18-Nov-2022 16:18:39 UTC] PHP Warning:  include(includes/db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:18:39 UTC] PHP Warning:  include(): Failed opening 'includes/db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:18:39 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:18:39 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:19:32 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:20:53 UTC] PHP Warning:  include(./db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:20:53 UTC] PHP Warning:  include(): Failed opening './db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:20:53 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:20:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:22:51 UTC] PHP Warning:  include(/../db_connection.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:22:51 UTC] PHP Warning:  include(): Failed opening '/../db_connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 2
+[18-Nov-2022 16:22:51 UTC] PHP Notice:  Undefined variable: db in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:22:51 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:27
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:23:03 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 27
+[18-Nov-2022 16:24:16 UTC] PHP Warning:  password_verify() expects parameter 2 to be string, object given in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 28
+[18-Nov-2022 16:28:06 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 32
+[18-Nov-2022 16:28:06 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:28:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:28:49 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 32
+[18-Nov-2022 16:28:49 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:28:49 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:29:00 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 32
+[18-Nov-2022 16:29:00 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:29:00 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:30:42 UTC] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 36
+[18-Nov-2022 16:33:31 UTC] PHP Warning:  Use of undefined constant i - assumed 'i' (this will throw an Error in a future version of PHP) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 33
+[18-Nov-2022 16:35:06 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 38
+[18-Nov-2022 16:35:06 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 38
+[18-Nov-2022 16:36:45 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:36:45 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:36:58 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:36:58 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:37:01 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:37:01 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:39:03 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:39:03 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:40:59 UTC] PHP Warning:  Illegal string offset 'Pword' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:40:59 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:41:23 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:41:44 UTC] PHP Notice:  Uninitialized string offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:49:42 UTC] PHP Notice:  Undefined offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 33
+[18-Nov-2022 16:50:07 UTC] PHP Notice:  Undefined offset: 0 in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 32
+[18-Nov-2022 16:51:39 UTC] PHP Warning:  include(./homepage.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:51:39 UTC] PHP Warning:  include(): Failed opening './homepage.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 37
+[18-Nov-2022 16:52:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 16:52:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 16:56:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 16:56:49 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 17:17:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 17:17:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 17:18:48 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 22
+[18-Nov-2022 17:18:48 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on bool in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 25
+[18-Nov-2022 17:19:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 17:19:20 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 17:22:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 28
+[18-Nov-2022 17:22:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 32
+[18-Nov-2022 20:28:57 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:31:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:32:14 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:34:09 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:34:15 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:35:37 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:36:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:39:03 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:39:04 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:39:29 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:39:34 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[18-Nov-2022 20:39:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 35
+[22-Nov-2022 03:28:10 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/loginhomepage.php on line 8
+[22-Nov-2022 03:28:10 UTC] PHP Notice:  Undefined variable: Username in /home/abbondm1/public_html/CSIT355_FinalProject/loginhomepage.php on line 13
+[22-Nov-2022 14:42:22 UTC] PHP Notice:  Undefined variable: _SESSION in /home/abbondm1/public_html/CSIT355_FinalProject/loginhomepage.php on line 8
+[22-Nov-2022 14:42:22 UTC] PHP Notice:  Undefined variable: Username in /home/abbondm1/public_html/CSIT355_FinalProject/loginhomepage.php on line 13
+[22-Nov-2022 14:43:41 UTC] PHP Warning:  include(./backend/login_verification.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:43:41 UTC] PHP Warning:  include(): Failed opening './backend/login_verification.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:43:41 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 4
+[22-Nov-2022 14:44:49 UTC] PHP Warning:  include(/backend/login_verification.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:44:49 UTC] PHP Warning:  include(): Failed opening '/backend/login_verification.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:44:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 4
+[22-Nov-2022 14:50:55 UTC] PHP Notice:  Undefined variable: Password in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:50:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 4
+[22-Nov-2022 14:50:55 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 6
+[22-Nov-2022 14:57:47 UTC] PHP Warning:  include(/backend/login_verification.php): failed to open stream: No such file or directory in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:57:47 UTC] PHP Warning:  include(): Failed opening '/backend/login_verification.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 3
+[22-Nov-2022 14:57:47 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:3) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php:37) in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 7
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 21
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 24
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 27
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 30
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 33
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 36
+[22-Nov-2022 14:58:33 UTC] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/abbondm1/public_html/CSIT355_FinalProject/homepage.php on line 219
+[22-Nov-2022 16:11:49 UTC] PHP Parse error:  syntax error, unexpected ')' in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 42
+[07-Dec-2022 19:21:31 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:21:31 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:21:41 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:21:41 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:22:01 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:22:01 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:22:13 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_8d924cc008a2e0d13337b2edbdf7edf4, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 19:22:13 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[07-Dec-2022 20:59:21 UTC] PHP Notice:  Undefined index: Total in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 45
+[07-Dec-2022 20:59:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php:45) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 46
+[11-Dec-2022 19:16:12 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:12 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:19 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:19 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:25 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:25 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:38 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:16:38 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:33 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:33 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:43 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:43 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:52 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:17:52 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:19:08 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:19:08 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:19:46 UTC] PHP Warning:  session_start(): open(/var/cpanel/php/sessions/ea-php73/sess_fddb91e657ce605920351f1235f08610, O_RDWR) failed: Permission denied (13) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
+[11-Dec-2022 19:19:46 UTC] PHP Warning:  session_start(): Failed to read session data: files (path: /var/cpanel/php/sessions/ea-php73) in /home/abbondm1/public_html/CSIT355_FinalProject/backend/login_verification.php on line 3
